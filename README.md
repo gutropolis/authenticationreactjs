@@ -1,4 +1,28 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project is covering following feature as login,registeration,logout ,question add, edit.
+
+Built with
+------- 
+
+- react + react-router v4.0.0  + redux ( Frontend )
+- webpack ( Helper tools )
+- Express &amp; Mongoose &amp; JWT ( Backend )
+
+
+
+
+Description
+-----------
+
+The app homepage shows the latest cases.
+In order to add a new case (question) or answer authentication is mandatory. Questions/Answers are limited to a maximum of 140 characters length.
+
+One can upvote/downvote answers and the owner will have karma points adjusted accordingly.
+One can still answer to his own question.
+
+
+
+
+
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
